@@ -1,4 +1,12 @@
 # ethics_classification
+
+<img src="4.PNG"  width="500" height="370">
+<img src="5.PNG"  width="500" height="370">
+<img src="7.PNG"  width="500" height="370">
+<img src="11.PNG"  width="500" height="370">
+
+
+
 final_model_v3 를 최종으로 모델을 제출하였다.
 
 최종적으로 5개의 모델을 앙상블하여 제출
