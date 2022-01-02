@@ -3,22 +3,22 @@
 <img src="result/4.PNG"  width="500" height="370">
 - 기존 데이터에는 [Sentence, Label] 이렇게 2개의 Column 이 존재하였다.
 - 이러한 데이터 형태를 Label에 존재하는 [범죄, 혐오, 선정, 비도덕아님, 폭력, 비난, 욕설, 차별] 총 8개의 각각의 Column 으로 변경.  
-
-
+  
+  
 <img src="result/5.PNG"  width="500" height="370">
 - Kobert, KoElectra 모델을 사용하였다
 - KoElectra 는 여러 버전의 모델을 사용하였다.  
-
+  
 <img src="result/7.PNG"  width="500" height="370">
 - 8개의 Label을 예측하는 것이 아닌, 7개의 Label을 예측 후에 나머지 1개(비도덕 아님) Label을 예측하는 방식으로 진행하였다  
-
+  
 <img src="result/11.PNG"  width="500" height="370">
 - Micro-f1 score 0.8 으로 최종 모델을 제출하였다.  
-
+  
 - 기타 전처리, 외부 데이터 사용 등의 방법을 통해서 성능을 올림
 - 진행한 Fine-tuning 중에서 성능이 가장 높은 hyperparameter 선택
 - 최종적으로 5개의 모델을 앙상블하여 제출  
-
+  
  -----  
 
 주제 소개 :
