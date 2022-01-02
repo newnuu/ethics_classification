@@ -19,5 +19,5 @@ final_model_v3 를 최종으로 모델을 제출하였다.
 
 수상 :
 
-<img src="상.png"  width="700" height="370">
+<img src="상."  width="700" height="370">
 
