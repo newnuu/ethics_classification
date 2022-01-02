@@ -1,9 +1,9 @@
 # ethics_classification
 
-<img src="4.PNG"  width="500" height="370">
-<img src="5.PNG"  width="500" height="370">
-<img src="7.PNG"  width="500" height="370">
-<img src="11.PNG"  width="500" height="370">
+<img src="result/4.PNG"  width="500" height="370">
+<img src="result/5.PNG"  width="500" height="370">
+<img src="result/7.PNG"  width="500" height="370">
+<img src="result/11.PNG"  width="500" height="370">
 
 
 
